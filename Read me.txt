@@ -1,0 +1,40 @@
+Team-ThyError404 
+Yanni Mata
+Aisha Mohamud
+Rehan Shareef
+Mohammed Jahanzeb
+
+
+the purpose of this website is to help people finds their dream vacation without spend too much time and too money. yes it does cause extra to book and package plan from our website but rest assured it doesn't cause that expensive compared to others 
+
+There are come About Service Package Contact and Reviews which will directly move you to the designated location of the chosen element in the nav bar as it is only a single page website 
+
+things to know in AstroRoam Webpage 
+trip planner if client doesn't favor the packages that has been offer they will be given a choice to request their own ofc 
+which they will need for them to fill up the form it is required to fill up the form for the popup to show 
+
+
+
+as for the packages only 3 is displayed for the moment it is intended to have an extension or be brought to another webpage when view all packages is clicked on 
+
+the thing used for the html are 
+    <!-- Bootstrap Link -->
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+    <!-- Bootstrap Link -->
+
+    <!--Java Script Link-->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <!--Java Script Link-->  
+
+    <!-- Font Awesome Cdn -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <!-- Font Awesome Cdn -->
+
+bootstrap-is used to style the webpage easier as all of the style or theme is on the bootstrap of course there is our own css for the style of the webpage 
+java script-link is used for the client Reviews to have a similar action to a carousel but in this case its a swiping motion to accompany all the client reviews 
+Font awesome-is used to have the icons instead of using img sample of the icons are the hotel in the services section as well as the airplane or the quotation icon  at the client reviews 
+
+
+
